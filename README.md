@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there!👋🏻 I am Anisa
 
 <!--
 **anisanedeland23/anisanedeland23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- ✨ I’m Computer Science student:)
+- 🌱 I’m currently learning **React** Framework
