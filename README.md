@@ -1,7 +1,7 @@
 # Hi there! 👋 I am Anisa Virginia Shalomita
 
 ### 🚀 Aspiring Software Developer | AI & Deep Learning Enthusiast
-Senior student at Universitas Dian Nuswantoro (UDINUS) with a passion for building applications that solve real-world problems.
+Undergraduate student at Satya Wacana Christian University with a passion for building applications that solve real-world problems.
 
 ---
 
